@@ -1,0 +1,7 @@
+{
+  "name": "Magalu Afiliados PRO v2",
+  "description": "Ferramenta avançada de automação e inteligência de vendas para afiliados Magalu com IA e postagem social.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
